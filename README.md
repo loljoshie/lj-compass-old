@@ -3,7 +3,7 @@
 # lj-compass
 Join my Discord laboratory for updates, support, and special early testing!
 <br>
-https://discord.gg/HH6uTcBfew
+https://discord.gg/loljoshie (without-vanity url: https://discord.gg/HH6uTcBfew)
 
 # lj-compass used with QBCore Framework
 
